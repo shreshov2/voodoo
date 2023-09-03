@@ -1,0 +1,2 @@
+# voodoo
+practice for git
